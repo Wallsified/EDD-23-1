@@ -4,8 +4,7 @@ import datos.PilasAndColas.Coleccionable;
 /**
  * Clase para MinHeap.
  * 
- * @author <a href="mailto:alejandrohmora@ciencias.unam.mx"> Alejandro Hernández
- *         Mora </a>
+ * 
  * @version 1.0
  */
 public class MaxHeap<T extends Comparable<T>> extends Heap<T> {

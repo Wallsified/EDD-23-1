@@ -16,8 +16,7 @@ import java.util.NoSuchElementException;
  * </p>
  * 
  * @param <T> Tipo genérico de los elementos que guarda.
- * @author <a href="mailto:alejandrohmora@ciencias.unam.mx">Alejandro Hernández
- *         Mora</a>
+ * 
  * @version 1.1
  */
 public interface Coleccionable<T> extends Iterable<T> {

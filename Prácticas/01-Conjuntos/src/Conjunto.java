@@ -2,7 +2,7 @@
 /**
  * <p> Clase que modela conjuntos </p> <p>Esta clase sirve para crear
  * conjuntos y hacer operaciones entre ellos</p>
- * @author Alejandro Hernández Mora <alejandrohmora@ciencias.unam.mx>
+ * 
  * @version 1.0
  */
 import java.util.Iterator;

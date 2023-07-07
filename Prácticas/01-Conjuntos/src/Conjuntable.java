@@ -7,7 +7,7 @@
  * operaciones elementales para operaciones entre conjuntos
  * </p>
  * 
- * @author Alejandro Hernández Mora <alejandrohmora@ciencias.unam.mx>
+ * 
  * @version 1.0
  */
 public interface Conjuntable<T> {

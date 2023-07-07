@@ -1,6 +1,6 @@
 import java.util.Iterator;
 import java.util.NoSuchElementException;
-import datos.PilasAndColas.Cola;
+import Datos.PilasAndColas.Cola;
 
 /**
  * <p>

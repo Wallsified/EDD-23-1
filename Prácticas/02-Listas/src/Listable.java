@@ -7,8 +7,7 @@
  * operaciones elementales que debe tener el TAD Lista
  * </p>
  * 
- * @author <a href="mailto:alejandrohmora@ciencias.unam.mx">Alejandro Hernández
- *         Mora</a>
+ * 
  * @version 1.1
  */
 public interface Listable<T> {

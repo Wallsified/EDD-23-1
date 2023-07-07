@@ -7,8 +7,7 @@ import datos.PilasAndColas.Coleccionable;
  * agregar y actualizar elementos en tiempo <em>O</em>(log <em>n</em>). Eliminar
  * el elemento mínimo también nos toma tiempo <em>O</em>(log <em>n</em>).
  * 
- * @author <a href="mailto:alejandrohmora@ciencias.unam.mx"> Alejandro Hernández
- *         Mora </a>
+ * 
  * @version 1.0
  */
 public abstract class Heap<T extends Comparable<T>> implements Coleccionable<T> {

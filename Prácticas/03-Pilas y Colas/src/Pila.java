@@ -9,8 +9,7 @@ import java.util.NoSuchElementException;
  * Esta clase implementa una Pila genérica, es decir que es homogénea pero
  * puede tener elementos de cualquier tipo.
  * 
- * @author <a href="mailto:alejandrohmora@ciencias.unam.mx"> Alejandro Hernández
- *         Mora </a>
+ * @author 
  * @version 1.0
  * @param <T> Tipo que tienen los objetos que guarda esta pila.
  */

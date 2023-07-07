@@ -10,8 +10,7 @@ import java.lang.UnsupportedOperationException;
  * Esta clase implementa una Lista genérica, es decir que es homogénea pero
  * puede tener elementos de cualquier tipo.
  * 
- * @author <a href="mailto:alejandrohmora@ciencias.unam.mx"> Alejandro Hernández
- *         Mora </a>
+ * 
  * @version 1.1
  */
 public class Lista<T> implements Listable<T>, Coleccionable<T> {

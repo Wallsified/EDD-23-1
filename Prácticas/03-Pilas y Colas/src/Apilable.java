@@ -9,8 +9,7 @@ import java.util.NoSuchElementException;
  * operaciones elementales que debe tener el TAD pila
  * </p>
  * 
- * @author <a href="mailto:adrisanchez@ciencias.unam.mx"> Adriana Sanchez Del
- *         Moral </a>
+ * 
  * @version 1.0
  */
 public interface Apilable<T> {

@@ -20,8 +20,7 @@ import datos.PilasAndColas.Cola;
  * final depende de las clases concretas que hereden de ésta.
  * </p>
  * 
- * @author <a href="mailto:alejandrohmora@ciencias.unam.mx"> Alejandro Hernández
- *         Mora </a>
+ * 
  * @version 1.0
  */
 

@@ -3,8 +3,7 @@ import datos.PilasAndColas.*;
 /**
  * Clase Main para probar los distintos tipos de heap.
  * 
- * @author <a href="mailto:alejandrohmora@ciencias.unam.mx"> Alejandro Hernández
- *         Mora </a>
+ * 
  * @version 1.0
  * 
  */
